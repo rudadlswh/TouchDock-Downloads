@@ -21,10 +21,3 @@ TouchDock은 iPhone을 Mac의 트랙패드와 입력 장치로 사용하는 앱�
 4. 앱 안내에 따라 시스템 설정의 손쉬운 사용 권한을 허용합니다.
 5. Mac에 표시된 페어링 QR 코드를 iPhone용 TouchDock 앱으로 스캔합니다.
 
-## 파일 확인
-
-다운로드 파일의 SHA-256:
-
-```text
-d1db0eb341d656b1000225491936171e7e533e3aff553b11cf8a24ba306cbc00  TouchDock-Mac-1.0.dmg
-```
